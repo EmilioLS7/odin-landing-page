@@ -25,6 +25,8 @@ header {
 
 .body-one {
     display: flex;
+    flex: 1;
+    flex-wrap: wrap;
 
 }
 
@@ -33,5 +35,17 @@ header {
     display: flex;
     align-content: flex-end;
 
+}
+
+h4 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+button {
+    background-color: #3882f6;
+    border-radius: 10px;
+    border: 2px solid #3882f6;
 }
 
