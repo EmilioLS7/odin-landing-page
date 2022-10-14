@@ -1,5 +1,7 @@
 header {
     display: flex;
+    color: #f9faf8;
+    font-size: 24px;
 }
 
 .header-links {
@@ -7,5 +9,29 @@ header {
     justify-content: flex-end;
     flex: 1;
     gap: 10px;
-    color: red;
+    color: #e5e7eb;
+    font-size: 18px;
 }
+
+.title {
+    color: #f9faf8;
+    font-weight: bolder;
+    font-size: 48px;
+}
+
+.hero {
+    background-color: #1F2937;
+}
+
+.body-one {
+    display: flex;
+
+}
+
+.subtext {
+    color: #e5e7eb;
+    display: flex;
+    align-content: flex-end;
+
+}
+
