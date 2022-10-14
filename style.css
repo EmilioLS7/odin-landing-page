@@ -1,0 +1,11 @@
+header {
+    display: flex;
+}
+
+.header-links {
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
+    gap: 10px;
+    color: red;
+}

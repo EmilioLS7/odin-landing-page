@@ -1,1 +1,1 @@
-# odin-landing-page
+In this project i will be making a landing page, demonstrating basic Flexbox and CSS skills.
